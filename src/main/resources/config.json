@@ -1,0 +1,9 @@
+{
+  "httpPort": 8080,
+  "amps": {
+    "uri": "tcp://localhost:9007/amps/json",
+    "topic": "vertx-demo",
+    "clientName": "vertx-amps-client",
+    "messageInterval": 2000
+  }
+}
